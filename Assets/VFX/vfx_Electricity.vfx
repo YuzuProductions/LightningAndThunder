@@ -65,10 +65,10 @@ MonoBehaviour:
   - title: SPARKS
     position:
       serializedVersion: 2
-      x: 2746
+      x: 2749
       y: -627
-      width: 478
-      height: 2146
+      width: 475
+      height: 2351
     contents:
     - model: {fileID: 8926484042661614695}
       id: 0
@@ -652,7 +652,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 0
 --- !u!114 &8926484042661614580
 MonoBehaviour:
@@ -2389,7 +2389,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 0
 --- !u!114 &8926484042661614651
 MonoBehaviour:
@@ -3655,7 +3655,7 @@ MonoBehaviour:
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
-  boundsSettingMode: 1
+  boundsMode: 1
   m_Space: 0
 --- !u!114 &8926484042661614725
 MonoBehaviour:
@@ -3771,7 +3771,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614782}
   - {fileID: 8926484042661614766}
   - {fileID: 8926484042661614811}
-  m_UIPosition: {x: 2771, y: 208}
+  m_UIPosition: {x: 2774, y: 242}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -4409,7 +4409,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614756}
       inputSlot: {fileID: 8926484042661614762}
-    position: {x: 2524, y: 832}
+    position: {x: 2526, y: 1229}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614756
@@ -5129,7 +5129,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 2475, y: 368}
+  m_UIPosition: {x: 2474, y: 425}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
